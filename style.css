@@ -139,9 +139,6 @@
 #sentence{
     text-align: center;
 }
-#loot{
-    
-}
 #cass{
     display: flex;
     gap: 300px;
@@ -169,6 +166,178 @@
    margin-left: 560px;
    justify-content: center;
    
+}
+@media only screen and(max-width: 400px){
+    #navbar{
+        display: flex;
+        gap: 100px;
+        /* margin-left: 300px; */
+    }
+    #nav{
+        display: flex;
+        gap: 90px;
+        /* margin-left: 300px; */
+    }
+    #flower{
+        display: flex;
+        /* margin-left: 300px; */
+        gap: 230px;
+        
+    }
+    #garden{
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+    }
+    
+    #plants{
+        display: flex;
+        font-size: 150%;
+        justify-content: center;
+        gap: 50px;
+    }
+    #roose{
+        display: flex;
+        gap: 40px;
+        justify-content: center;
+    }
+    #user{
+        display: flex;
+        gap: 10px;
+        /* margin-left: 400px; */
+    }
+    #nice{
+        width: 350px;
+        height: 350px;
+    }
+    #rtf{
+        font-size: 200%;
+        
+    } #smell{
+        text-align: center;
+    }
+    #mqr{
+        display: flex;
+        /* margin-left: 290px; */
+        gap: 330px;
+    }
+    #fty{
+        font-size: 200%;
+    }
+    #shop{
+        border: solid;
+        background-color: forestgreen;
+        border-radius: 20px;
+        /* padding: 20px; */
+        width: 80%;
+        border-style: hidden;
+    }
+    #grow{
+        text-align: center;
+    } 
+    #word{
+        font-size: 200%;
+    }
+    #now{
+      background-color: forestgreen;
+      border-style: hidden;
+    }
+    #view{ 
+        background-color: forestgreen;
+        border-style: hidden;
+    }
+    #grow2{
+        background-image: url("image/ma.jpeg");
+    }
+    #spring{
+        font-size: 200%;
+        text-align: center;
+    }
+    #eare{
+        display: flex;
+        gap: 90px;
+        justify-content: center;
+    
+    }
+    #spring{
+        text-align: center;
+    }
+    #holder{
+        display: flex;
+        gap: 90px;
+        justify-content: center;
+    }
+    #holder6{
+        display: flex;
+        gap: 90px;
+        justify-content: center;
+    }
+    #solve{
+        font-size: 200%;
+    }
+    #header2{
+        display: flex;
+        gap: 400px;
+        /* margin-left: 290px; */
+        
+    }
+    #blog{
+        font-size: 200%;
+        /* margin-left: 300px; */
+    }
+    #header{
+        text-align: left;
+    }
+    #manner{
+        display: flex;
+        gap: 90px;
+        justify-content: center;
+    }
+    #sit{
+        font-size: 200%;
+        
+    }
+    #list{
+        text-align: center;
+    }
+    #arrow{
+        display: flex;
+        gap: 40px;
+        justify-content: center;
+    
+    }
+    #sentence{
+        text-align: center;
+    }
+    #cass{
+        display: flex;
+        gap: 300px;
+        /* margin-left: 400px; */
+    }
+    #loot{
+        width: 80%;
+        background-color: forestgreen;
+        border-style: hidden;
+    
+    }
+    #nav1{
+        display: flex;
+        gap: 200px;
+        /* margin-left: 300px; */
+        border: solid;
+        width: 68%;
+        background-color: forestgreen;
+    
+        
+    }
+    #bury{
+       display: flex;
+       gap: 30px;
+       /* margin-left: 560px; */
+       justify-content: center;
+       
+    }
+    
 }
 
 
